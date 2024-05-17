@@ -19,36 +19,46 @@ Este curso incluye 11 ejercicios prácticos que te permitirán aplicar los conce
 ### EJERCICIO 1
 ![ejercicio 1](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/Ejercicio%201.png)
 
-### Codigo
+
 ### EJERCICIO 2
 ![ejercicio 2](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/ejercicio%202.png)
-### Codigo
+
+
 ### EJERCICIO 3
 ![ejercicio 3](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/ejercicio%203.png)
-### Codigo
+
+
 ### EJERCICIO 4
 ![ejercicio 4](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/ejercicio%204.png)
-### Codigo
+
+
 ### EJERCICIO 5
 ![ejercicio 5](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/ejercicio%205.png)
-### Codigo
+
+
 ### EJERCICIO 6
 ![ejercicio 6](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/ejercicio%206.png)
-### Codigo
+
+
 ### EJERCICIO 7
 ![ejercicio 7](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/ejercicio%207.png)
-### Codigo
+
+
 ### EJERCICIO 8
 ![ejercicio 8](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/ejercicio%208.png)
-### Codigo
+
+
 ### EJERCICIO 9
 ![ejercicio 9](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/ejercicio%209.png)
-### Codigo
+
+
 ### EJERCICIO 10
 ![ejercicio 10](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/ejercicio%2010.png)
-### Codigo
+
+
 ### EJERCICIO 11
 ![ejercicio 11](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/ejercicio%2011.png)
+
 
 ## Descarga del Archivo
 
