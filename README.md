@@ -60,7 +60,7 @@ Este curso incluye 11 ejercicios prácticos que te permitirán aplicar los conce
 ![ejercicio 11](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/ejercicio%2011.png)
 
 ### EJERCICIO 12
-
+![Texto alternativo](https://github.com/AndresBolla/IBM-jupyter/blob/1c4a984e78cfd2fe2ebec4baadaa2220b6193266/Ejercicio%2012.png)
 
 ## Descarga del Archivo
 
