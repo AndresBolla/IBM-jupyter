@@ -60,8 +60,10 @@ Este curso incluye 11 ejercicios prácticos que te permitirán aplicar los conce
 ![ejercicio 11](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/ejercicio%2011.png)
 
 ### EJERCICIO 12
-![Texto alternativo](https://github.com/AndresBolla/IBM-jupyter/blob/1c4a984e78cfd2fe2ebec4baadaa2220b6193266/Ejercicio%2012.png)
+![Ejercicio 12](https://github.com/AndresBolla/IBM-jupyter/blob/1c4a984e78cfd2fe2ebec4baadaa2220b6193266/Ejercicio%2012.png)
 
+### Ejercicio 13
+![Ejercicio 13](https://github.com/AndresBolla/IBM-jupyter/blob/6c919a0a7f140960f229c166d38a6fbe519cb362/Imagen%20completa.png)
 ## Descarga del Archivo
 
 Puedes descargar el archivo del curso directamente desde el repositorio para acceder al material de estudio y los ejercicios prácticos en tu propio entorno.
