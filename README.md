@@ -59,6 +59,8 @@ Este curso incluye 11 ejercicios prácticos que te permitirán aplicar los conce
 ### EJERCICIO 11
 ![ejercicio 11](https://github.com/AndresBolla/IBM-jupyter/blob/9f2c6cb787d259e5274d2b6d45854c00ecc01c55/ejercicio%2011.png)
 
+### EJERCICIO 12
+
 
 ## Descarga del Archivo
 
